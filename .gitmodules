@@ -1,0 +1,6 @@
+[submodule "dogg-frontend"]
+	path = dogg-frontend
+	url = https://github.com/Bartor/dogg-frontend.git
+[submodule "dogg-backend"]
+	path = dogg-backend
+	url = https://github.com/Bartor/dogg-backend.git
